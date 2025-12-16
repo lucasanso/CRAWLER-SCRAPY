@@ -1,6 +1,5 @@
-# Projeto
+# Project
 
-### Tecnologias utilizadas:
 Python
 Scrapy
 Playwright
